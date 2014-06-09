@@ -1,4 +1,4 @@
-myproject1
+Code Skulptor
 ==========
 
-My demo project
+A Python project.
