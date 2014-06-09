@@ -1,2 +1,1 @@
-Hello there ! This is the new Information I'm going to add here!
-Again this file is edited
+Implemented this simple project using SimpleGUI and Pygame as a part of Interactive learning - Python course.
