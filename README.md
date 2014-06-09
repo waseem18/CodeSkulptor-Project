@@ -1,4 +1,1 @@
-Code Skulptor
-==========
-
-A Python project.
+A simple python project implemented using SimpleGUI.
